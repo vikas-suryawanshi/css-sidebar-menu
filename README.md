@@ -4,7 +4,6 @@ This is my first mini project using HTML and CSS. In this project, I created a s
 
 I made this project to practice CSS concepts like positioning, transitions, and layout design.
 
-
 ## Features
 
 - Sidebar menu open and close
@@ -12,7 +11,6 @@ I made this project to practice CSS concepts like positioning, transitions, and 
 - Smooth transition effect
 - Simple and clean UI
 - Built using only HTML and CSS
-
 
 ## Technologies Used
 
@@ -35,7 +33,6 @@ From this project, I learned:
 - How to use CSS transitions
 - How to use background images
 - How to design UI using only CSS
-
 
 ## Purpose
 
