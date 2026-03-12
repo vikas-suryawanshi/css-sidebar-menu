@@ -158,3 +158,13 @@ body{
     color: #00ffff;
     transition: 0.3s;
 }
+
+
+.sidebar_menu .menu i{
+    padding-right: 5px;
+    transition: 0.3s;
+}
+
+.sidebar_menu .menu li:hover i{
+    transform: scale(1.3);
+}
