@@ -144,3 +144,11 @@ body{
 #check:checked~.sidebar_menu .btn_two i{
     opacity: 1;
 }
+
+.sidebar_menu{
+    transform: translateX(-100%);
+}
+
+#check:checked ~ .sidebar_menu{
+    transform: translateX(0);
+}
