@@ -153,3 +153,8 @@ body{
 #check:checked ~ .sidebar_menu{
     transform: translateX(0);
 }
+
+.sidebar_menu .logo a:hover{
+    color: #00ffff;
+    transition: 0.3s;
+}
